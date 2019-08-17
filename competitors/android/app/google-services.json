@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "92016456386",
+    "firebase_url": "https://competitor-72fee.firebaseio.com",
+    "project_id": "competitor-72fee",
+    "storage_bucket": "competitor-72fee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92016456386:android:6ddf573e6e492de6",
+        "android_client_info": {
+          "package_name": "com.example.competitors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92016456386-kj7u1d4ss193l6s0nn4ed23t90od7v6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLsiIzc27XAjqLM35kAHLFVxyG-EFjTeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92016456386-kj7u1d4ss193l6s0nn4ed23t90od7v6r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "92016456386-0ik56d3a4s7486sga785v1ve63qhg3es.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.donini.competitor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
